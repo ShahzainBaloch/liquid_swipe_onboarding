@@ -1,0 +1,19 @@
+name: liquid_swipe_onboarding_example
+description: Demonstrates how to use liquid_swipe_onboarding.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  liquid_swipe_onboarding:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
